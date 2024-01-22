@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Samruddhi160501/portfolio/static/css/main.132ac70c.css",
+    "main.js": "/Samruddhi160501/portfolio/static/js/main.ade1d758.js",
+    "static/media/profile.jpeg": "/Samruddhi160501/portfolio/static/media/profile.1420f009f484f8e0da81.jpeg",
+    "static/media/web.webp": "/Samruddhi160501/portfolio/static/media/web.1c477dd3375002964cc9.webp",
+    "index.html": "/Samruddhi160501/portfolio/index.html",
+    "main.132ac70c.css.map": "/Samruddhi160501/portfolio/static/css/main.132ac70c.css.map",
+    "main.ade1d758.js.map": "/Samruddhi160501/portfolio/static/js/main.ade1d758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132ac70c.css",
+    "static/js/main.ade1d758.js"
+  ]
+}
