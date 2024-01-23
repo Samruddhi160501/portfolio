@@ -2,7 +2,7 @@ import "../Shared/Styles.css";
 import vector from "../assets/web.webp";
 function Home() {
   return (
-    <div id="intro" className="section dark1">
+    <div  className="section dark1">
       <div className="container">
         <div className="section-flex intro">
           <div className="section-right">
